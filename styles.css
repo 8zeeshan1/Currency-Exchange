@@ -9,10 +9,11 @@ body{
     align-items: center;
     min-height: 100vh;
     background-color: #f4e4ba;
+    background-image: url("various-denominations-currency-from-around-world-neatly-stacked-top-each-other-collage-different-global-currencies-ai-generated_585735-23516.jpg");
 } 
 
 .container{
-    background-color:white;
+    background-color: white;
     border-radius: 1rem;
     padding: 2rem;
     min-height: 45vh;
