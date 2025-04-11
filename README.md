@@ -27,7 +27,7 @@ The **Currency Converter App** is a sleek and responsive web application that al
 
 _Add a screenshot here if you like — for example, using this format:_
 
-![App Screenshot](https://your-github-repo-link/screenshot.png)
+![App Screenshot](screenshot.png)
 
 ## 🔧 Installation & Setup
 
